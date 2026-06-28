@@ -1,0 +1,1 @@
+Developed an AI image classification system that accurately identified objects and their subcategories (e.g., dog breeds and vehicle types) by leveraging OpenCV, TensorFlow, and a fine-tuned MobileNetV2 model.
